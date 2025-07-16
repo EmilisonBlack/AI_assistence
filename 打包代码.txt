@@ -1,0 +1,3 @@
+python -m pysimplegui-exemaker.pysimplegui-exemaker
+
+auto-py-to-exe

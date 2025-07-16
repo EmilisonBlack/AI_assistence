@@ -1,0 +1,53 @@
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3020 ratio=0.7751540041067762 coords1=(1034, 1019) coords2=(631, 1067)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=9 black_count2=0 white_count2=3
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3021 ratio=0.7754106776180698 coords1=(1034, 1018) coords2=(630, 1066)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=10 black_count2=0 white_count2=4
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3022 ratio=0.7756673511293635 coords1=(1034, 1017) coords2=(630, 1065)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=11 black_count2=0 white_count2=5
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3023 ratio=0.7759240246406571 coords1=(1034, 1016) coords2=(630, 1065)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=12 black_count2=0 white_count2=6 
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3024 ratio=0.7761806981519507 coords1=(1034, 1015) coords2=(630, 1064)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=13 black_count2=0 white_count2=7
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3025 ratio=0.7764373716632443 coords1=(1034, 1014) coords2=(630, 1063)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=14 black_count2=0 white_count2=8
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3026 ratio=0.776694045174538 coords1=(1034, 1013) coords2=(630, 1062)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=15 black_count2=0 white_count2=9
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3027 ratio=0.7769507186858317 coords1=(1034, 1012) coords2=(629, 1061)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=16 black_count2=0 white_count2=10
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3028 ratio=0.7772073921971252 coords1=(1034, 1011) coords2=(629, 1060)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=17 black_count2=0 white_count2=11
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3029 ratio=0.7774640657084189 coords1=(1034, 1010) coords2=(629, 1059)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=18 black_count2=0 white_count2=12
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3030 ratio=0.7777207392197125 coords1=(1034, 1009) coords2=(629, 1058)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=19 black_count2=0 white_count2=13
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3031 ratio=0.7779774127310062 coords1=(1034, 1008) coords2=(629, 1057)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=20 black_count2=0 white_count2=14
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3032 ratio=0.7782340862422998 coords1=(1034, 1007) coords2=(629, 1056)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=21 black_count2=0 white_count2=15
+[DEBUG] 2025-06-11 23:34:38 [scanning_step] step=3033 ratio=0.7784907597535934 coords1=(1034, 1006) coords2=(628, 1055)
+[DEBUG] 2025-06-11 23:34:38 [scanning_pixel_values] val1=255 val2=255
+[DEBUG] 2025-06-11 23:34:38 [scanning_counts] black_count1=0 white_count1=22 black_count2=0 white_count2=16
+[DEBUG] 2025-06-11 23:34:38 检测到环间过渡，生成标记点
+[DEBUG] 2025-06-11 23:34:38 [add_sample_point] event_inaxes=Axes(0.125,0.267208;0.775x0.545583) has_gray_image=True
+[DEBUG] 2025-06-11 23:34:38 [add_sample_point] click_coords=(1034, 1006)
+[DEBUG] 2025-06-11 23:34:38 半自动模式前两次点击，跳过采样
+[DEBUG] 2025-06-11 23:34:38 [add_sample_point] event_inaxes=Axes(0.125,0.267208;0.775x0.545583) has_gray_image=True
+[DEBUG] 2025-06-11 23:34:38 [add_sample_point] click_coords=(628, 1055)
+[DEBUG] 2025-06-11 23:34:38 半自动模式前两次点击，跳过采样
+[DEBUG] 2025-06-11 23:34:38 [update_circle] sampled_points_count=0
+[DEBUG] 2025-06-11 23:34:38 采样点不足3个，无法拟合圆
+[DEBUG] 2025-06-11 23:34:38 标记点生成不足
+(aiassist) PS I:\Huge_project\AI_assistence> 

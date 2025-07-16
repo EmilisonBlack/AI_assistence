@@ -1,0 +1,2 @@
+2025-06-11 22:20:17,581 - INFO - 启动圆弧补全工具
+2025-06-11 22:20:18,021 - ERROR - 程序异常: 'ArcToCircle' object has no attribute 'save_results'
